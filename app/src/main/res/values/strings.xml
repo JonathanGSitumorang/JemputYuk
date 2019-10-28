@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JemputYuk</string>
+    <string name="pesan_motor">Pesan Motor</string>
+    <string name="pesan_mobil">Pesan Mobil</string>
+    <string name="log_aktivitas">aktivitas</string>
+    <string name="tracking">Tracking</string>
+    <string name="profile">Akun Saya</string>
+    <string name="Bantuan">Bantuan</string>
+    <string name="motor">Pesan Motor</string>
+    <string name="mobil">Pesan Mobil</string>
+    <string name="log">Log Aktifitas</string>
+    <string name="help">Bantuan</string>
+    <string name="title_activity_tracker">Map</string>
+    <string name="google_maps_key">mapskey</string>
+    <string name="title_activity_bantuan">BantuanActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+</resources>
